@@ -1,1 +1,2 @@
-console.log("Lets burn")
+const pair = "extra"
+
